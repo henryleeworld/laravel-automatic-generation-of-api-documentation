@@ -1,0 +1,14 @@
+{
+    "Administrator": "系統管理員",
+    "Booking is created successfully.": "預約建立成功。",
+    "Booking is deleted successfully.": "預約刪除成功。",
+    "Booking is retrieved successfully.": "預約獲得成功。",
+    "Booking is updated successfully.": "預約更新成功。",
+    "Bookings are retrieved successfully.": "預約已成功獲得。",
+    "Place is not available at the given date.": "指定日期沒有空位。",
+    "Places are retrieved successfully.": "空位已成功獲得。",
+    "The user registered successfully.": "使用者註冊成功。",
+    "Unauthorised.": "未經授權。",
+    "User login successfully.": "使用者登入成功。",
+    "You're logged out!": "使用者登出成功！"
+}
